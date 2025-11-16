@@ -1,4 +1,4 @@
-# Dementia Risk Prediction from Non-Medical Data
+# TEAM 404 - Dementia Risk Prediction from Non-Medical Data
 
 This project was built for a hackathon focused on **estimating dementia risk** using information that normal people can realistically know about themselves (age, education, lifestyle, living situation, and simple diagnoses) – **without** using detailed medical tests, scans, or specialist cognitive scores.
 
